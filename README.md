@@ -35,7 +35,7 @@ Aplikasi web untuk mengelola gambar dengan fitur seperti menambahkan, mengedit, 
    ```bash
    git clone https://github.com/your-repo/image-management-dashboard.git
 
-project/
+```project/
 ├── index.html        # File utama HTML
 ├── assets/           # Berisi CSS, JS, dan file aset lainnya
 │   ├── css/
